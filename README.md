@@ -1,8 +1,12 @@
 # Exploit Title: DotNetNuke Administration Authentication Bypass
 
+
+
 templates
 
 https://github.com/projectdiscovery/nuclei-templates/blob/fcd3d55a60c8d8b61395e6056e83a6b08268cc11/http/cves/2015/CVE-2015-2794.yaml
+
+
 
 Step 1: /Install/InstallWizard.aspx?__VIEWSTATE=
 
